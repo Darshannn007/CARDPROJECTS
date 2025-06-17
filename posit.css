@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(5, 187, 248);
+}
+#container{
+    background-color: black;
+    height: 1000vh;
+    width: 1000vh;
+}
+.item{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+}
+#item1{
+    position: relative;
+    left: 150px
+
+
+
+}

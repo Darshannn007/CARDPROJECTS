@@ -1,0 +1,28 @@
+body{
+     display: flex;
+     justify-content: center;
+     margin-top: 200px;
+     background-color: blueviolet;
+}
+.flexcontainer{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(12, 213, 213);
+    display: flex;
+    flex-wrap:wrap;
+    flex-shrink: inherit;
+    justify-content: center;
+    align-items:center;
+    border: 15px dashed;
+    border-radius: 10px;
+    border-color: brown;
+    justify-content: space-evenly;
+
+}
+.flexitem{
+    height: 50px;
+    width: 50px;
+    background-color: blue;
+    border: 3px solid black;
+    border-radius: 10px;
+}
